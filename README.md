@@ -30,41 +30,7 @@ A web application for evaluating skilled nursing facilities before partnership o
 
 ---
 
-## Deploy in 3 Minutes
 
-### Option A — Netlify Drop (30 seconds, no account needed)
-1. Unzip `medelite-deploy.zip`
-2. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-3. Drag the `dist/` folder onto the page
-4. Get a live URL instantly
-
-### Option B — GitHub Pages
-
-```bash
-# 1. Unzip and enter the project
-unzip medelite-deploy.zip
-cd medelite-deploy
-
-# 2. Install dependencies
-npm install
-
-# 3. Create a GitHub repo at github.com/new
-#    Name it: medelite-facility-assessment
-#    Set to Public
-
-# 4. Push to GitHub
-git remote add origin https://github.com/YOUR_USERNAME/medelite-facility-assessment.git
-git push -u origin master
-
-# 5. Deploy to GitHub Pages (builds + pushes gh-pages branch)
-npm run deploy
-```
-
-**6.** Go to your repo → Settings → Pages → Source: `gh-pages` branch → Save
-
-**Live URL:** `https://YOUR_USERNAME.github.io/medelite-facility-assessment/`
-
----
 
 ## Test Case
 
