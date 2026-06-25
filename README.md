@@ -87,6 +87,3 @@ medelite-deploy/
 **DOCX:** Clicking "Download as DOCX" downloads a fully editable `.docx` file directly. The Medicare.gov URL in the footer is a live hyperlink in Word.
 
 ---
-
-*Built by Medelite Engineering · Data sourced from CMS Provider Data Catalog · Updated Feb 2026*
->>>>>>> 7555dfb (Initial commit)
